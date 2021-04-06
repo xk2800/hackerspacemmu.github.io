@@ -13,7 +13,7 @@ body {
 }
 
 #nav-list {
-  letter-spacing: 3px; 
+  letter-spacing: 3px;
 }
 
 #nav-list a:hover {
@@ -126,12 +126,12 @@ body {
 }
 @media (max-width: 575px) {
   #events h3 {
-    /* 
+    /*
     Fix location of <h3>Event</h3>
-    Without this, the h3 will moves down 
+    Without this, the h3 will moves down
     too much at below max-width: 576px
     */
-    top: 9.8%; 
+    top: 9.8%;
   }
 }
 
@@ -277,7 +277,7 @@ body {
 
   #displayBoard > div div {
     padding-top: 10px;
-    padding-bottom: 10px;  
+    padding-bottom: 10px;
   }
 
   /* END MAIN CONTENT */
@@ -294,7 +294,5 @@ body {
   }
 
   /* END FOOTER */
-  
+
 }
-
-
